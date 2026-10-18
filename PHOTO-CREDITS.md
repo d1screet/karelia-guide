@@ -80,3 +80,11 @@ Kivach Nature Reserve: 30 km northwest of the shore of Lake Onega, Kondopozhsky 
 Атмосфера летнего концерта — иллюстрация, не фотография фестиваля «Воздух Карелии»
 
 Оригинал: Glastonbury, Великобритания. Автор: Czampal. Лицензия: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). [Страница оригинала](https://commons.wikimedia.org/wiki/File:Clouds,_Crowd_%26_Glastonbury.jpg). Уменьшено разрешение, оптимизирован JPEG.
+
+## express
+
+«Рускеальский экспресс» в Сортавале.
+
+Автор: Avsolov. Лицензия: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). [Оригинал](https://commons.wikimedia.org/wiki/File:Сортавала,_Рускеальский_экспресс,_вид_3.jpg).
+
+Разрешение уменьшено, JPEG оптимизирован.
