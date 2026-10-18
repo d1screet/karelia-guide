@@ -1,0 +1,120 @@
+{
+  "fregat": {
+    "file": "fregat.jpg",
+    "author": "Semenov.m7",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fregat_(restaurant).jpg",
+    "caption": "Ресторан \"Фрегат\" на набережной в Петрозаводске.",
+    "changes": "Уменьшено разрешение, оптимизирован JPEG"
+  },
+  "kizhi": {
+    "file": "kizhi.jpg",
+    "author": "Alexxx1979",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kizhi_Pogost._The_Church_of_the_Transfiguration_DSC02646_2200.jpg",
+    "caption": "Кижский погост. Церковь Преображения Господня",
+    "changes": "Уменьшено разрешение, оптимизирован JPEG"
+  },
+  "valaam": {
+    "file": "valaam.jpg",
+    "author": "Eniisi Lisika",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B0%D0%BB%D0%B0%D0%B0%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_%D0%BB%D0%B5%D1%82%D0%BE%D0%BC_2023_%D0%B3%D0%BE%D0%B4%D0%B0._Valaam_Monastery_in_summer_2023.jpg",
+    "caption": "Валаамский монастырь летом",
+    "changes": "Уменьшено разрешение, оптимизирован JPEG"
+  },
+  "sortavala": {
+    "file": "sortavala.jpg",
+    "author": "Мистер Х",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sortavala_railway_station_2024.jpg",
+    "caption": "Железнодорожный вокзал Сортавалы",
+    "changes": "Уменьшено разрешение, оптимизирован JPEG"
+  },
+  "ruskeala": {
+    "file": "ruskeala.jpg",
+    "author": "Anders98en",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ruskeala_Canyon.jpg",
+    "caption": "Мраморный каньон Рускеалы",
+    "changes": "Уменьшено разрешение, оптимизирован JPEG"
+  },
+  "skerries": {
+    "file": "skerries.jpg",
+    "author": "Александр Байдуков",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Coast_of_the_national_Park_Ladoga_skerries_near_the_village_of_Kurkieki._Russia,_Karelia.jpg",
+    "caption": "Побережье национального парка «Ладожские шхеры» у Куркиёки",
+    "changes": "Уменьшено разрешение, оптимизирован JPEG"
+  },
+  "sampo": {
+    "file": "sampo.jpg",
+    "author": "Avsolov",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%9A%D0%BE%D0%BD%D1%87%D0%B5%D0%B7%D0%B5%D1%80%D0%BE_%D1%81_%D0%B3%D0%BE%D1%80%D1%8B_%D0%A1%D0%B0%D0%BC%D0%BF%D0%BE.jpg",
+    "caption": "Карелия, Прионежский район, окрестности деревни Косалма.\nВид на Кончезеро с горы Сампо.",
+    "changes": "Уменьшено разрешение, оптимизирован JPEG"
+  },
+  "kivach": {
+    "file": "kivach.jpg",
+    "author": "Александр Байдуков",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kivach_Waterfall.jpg",
+    "caption": "Водопад Кивач на реке Суне",
+    "changes": "Уменьшено разрешение, оптимизирован JPEG"
+  },
+  "paanajarvi": {
+    "file": "paanajarvi.jpg",
+    "author": "Климов Д.С.",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Vid_na_ozero_Paanayarvi.JPG",
+    "caption": "Вид на озеро Паанаярви",
+    "changes": "Уменьшено разрешение, оптимизирован JPEG"
+  },
+  "hero": {
+    "file": "hero.jpg",
+    "author": "Aleksander Kaasik",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ruskeala_marmor_kallastega_j%C3%A4rv_Karjalas.jpg",
+    "caption": "Мраморный каньон горного парка «Рускеала»",
+    "changes": "Уменьшено разрешение, оптимизирован JPEG"
+  },
+  "kalitki": {
+    "file": "kalitki.jpg",
+    "author": "Miia Ranta, kahvikisu",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kalitki.jpg",
+    "caption": "Калитки — иллюстрация блюда карельской кухни; фотография не сделана в ресторане «Карельская горница».",
+    "changes": "Уменьшено разрешение, оптимизирован JPEG"
+  },
+  "gornitsa": {
+    "file": "gornitsa.jpg",
+    "author": "Semenov.m7",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Restaurant_Karelian_Gornitsa.jpg",
+    "caption": "Ресторан «Карельская горница» на улице Энгельса в Петрозаводске",
+    "changes": "Уменьшено разрешение, оптимизирован JPEG"
+  },
+  "festival": {
+    "file": "festival.jpg",
+    "author": "Czampal",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Clouds,_Crowd_%26_Glastonbury.jpg",
+    "caption": "Атмосфера летнего концерта — иллюстрация, не фотография фестиваля «Воздух Карелии»",
+    "originalTitle": "File:Clouds, Crowd & Glastonbury.jpg",
+    "changes": "Уменьшено разрешение, оптимизирован JPEG"
+  }
+}
